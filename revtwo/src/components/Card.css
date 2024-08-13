@@ -1,0 +1,53 @@
+/* src/PaymentForm.css */
+.payment-form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #ffffff;
+    margin-top: 70px;
+    color:rgb(0, 0, 0);
+  }
+  
+  .payment-form-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .payment-form-container form div {
+    margin-bottom: 10px;
+    margin-right: 20px;
+  }
+  
+  .payment-form-container form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .payment-form-container form input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .payment-form-container form button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #466dda;
+    color: white;
+    font-size: 16px;
+  }
+   .paybody{
+
+   background-image: url("../assets/bipay.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    border-radius: 20px;
+    margin: 0;
+   }
